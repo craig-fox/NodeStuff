@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cdb7b34-ed93-45bd-b714-6affb0161cbd" name="Default" comment="" />
+    <ignored path="NodeStuff.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="NodeStuff" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="mercury.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mercury.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="218" selection-end="218" vertical-scroll-proportion="0.20134228" vertical-offset="0" max-vertical-offset="596">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thor.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thor.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="21" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="restful.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/restful.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="25" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="109" max-vertical-offset="705">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="burial.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/text/burial.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="129" column="0" selection-start="31545" selection-end="31545" vertical-scroll-proportion="0.0" vertical-offset="1935" max-vertical-offset="2055">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fish.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fish.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="31" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="word_count.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/word_count.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="10" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="885">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hamlet.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/text/hamlet.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="191" column="27" selection-start="6285" selection-end="6285" vertical-scroll-proportion="0.0" vertical-offset="2865" max-vertical-offset="2955">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="brave.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/text/brave.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="160" column="0" selection-start="15999" selection-end="15999" vertical-scroll-proportion="0.0" vertical-offset="1680" max-vertical-offset="3705">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="frankenstein.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/text/frankenstein.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="0" selection-start="1976" selection-end="1976" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1740">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="canterbury.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/text/canterbury.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="47" selection-start="828" selection-end="828" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="2295">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/thor.js" />
+        <option value="$PROJECT_DIR$/text/frankenstein" />
+        <option value="$PROJECT_DIR$/text/frankenstein.txt" />
+        <option value="$PROJECT_DIR$/text/canterbury.txt" />
+        <option value="$PROJECT_DIR$/text/raven.txt" />
+        <option value="$PROJECT_DIR$/text/weasel.txt" />
+        <option value="$PROJECT_DIR$/text/count_results.txt" />
+        <option value="$PROJECT_DIR$/awesome.js" />
+        <option value="$PROJECT_DIR$/fish.js" />
+        <option value="$PROJECT_DIR$/text/brave.txt" />
+        <option value="$PROJECT_DIR$/watch.js" />
+        <option value="$PROJECT_DIR$/text/burial.txt" />
+        <option value="$PROJECT_DIR$/word_count.js" />
+        <option value="$PROJECT_DIR$/restful.js" />
+        <option value="$PROJECT_DIR$/mercury.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="580" />
+    <option name="y" value="187" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeStuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeStuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeStuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="preferences.general" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="141" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="143" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="146" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="940" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="141" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="143" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="146" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="940" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/text" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/watch" />
+      <recent name="$PROJECT_DIR$/vid" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cdb7b34-ed93-45bd-b714-6affb0161cbd" name="Default" comment="" />
+      <created>1391412337028</created>
+      <updated>1391412337028</updated>
+    </task>
+    <task id="LOCAL-00001" summary="node is cool">
+      <created>1394002189534</created>
+      <updated>1394002189534</updated>
+    </task>
+    <task id="LOCAL-00002" summary="node is cool&#10;">
+      <created>1394008130013</created>
+      <updated>1394008130013</updated>
+    </task>
+    <task id="LOCAL-00003" summary="strip">
+      <created>1394010848363</created>
+      <updated>1394010848369</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="580" y="187" width="1400" height="1000" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13571429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32975295" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291039" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="node is cool" />
+    <MESSAGE value="node is cool&#10;" />
+    <MESSAGE value="strip" />
+    <option name="LAST_COMMIT_MESSAGE" value="strip" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/restful.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="25" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/watch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="16" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="31" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_count.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="10" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/hamlet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="191" column="27" selection-start="6285" selection-end="6285" vertical-scroll-proportion="0.0" vertical-offset="2865" max-vertical-offset="2955">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/brave.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="160" column="0" selection-start="15999" selection-end="15999" vertical-scroll-proportion="0.0" vertical-offset="1680" max-vertical-offset="3705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/frankenstein.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="1976" selection-end="1976" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1740">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/canterbury.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="47" selection-start="828" selection-end="828" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="2295">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mercury.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="239" selection-end="294" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/burial.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="0" selection-start="31545" selection-end="31545" vertical-scroll-proportion="0.0" vertical-offset="1935" max-vertical-offset="2055">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restful.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="9" selection-start="945" selection-end="945" vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/watch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="16" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="31" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_count.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="10" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/hamlet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="191" column="27" selection-start="6285" selection-end="6285" vertical-scroll-proportion="0.0" vertical-offset="2865" max-vertical-offset="2955">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/brave.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="160" column="0" selection-start="15999" selection-end="15999" vertical-scroll-proportion="0.0" vertical-offset="1680" max-vertical-offset="3705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/frankenstein.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="1976" selection-end="1976" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1740">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/canterbury.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="47" selection-start="828" selection-end="828" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="2295">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="21" selection-start="541" selection-end="541" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="31" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restful.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="42" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_count.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="37" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/hamlet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="191" column="27" selection-start="6285" selection-end="6285" vertical-scroll-proportion="0.0" vertical-offset="2865" max-vertical-offset="2955">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/brave.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="238" column="0" selection-start="23806" selection-end="23806" vertical-scroll-proportion="0.0" vertical-offset="3570" max-vertical-offset="3690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/frankenstein.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="1976" selection-end="1976" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1740">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/canterbury.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="145" column="0" selection-start="6018" selection-end="6018" vertical-scroll-proportion="0.0" vertical-offset="2175" max-vertical-offset="2295">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="21" selection-start="541" selection-end="541" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="31" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restful.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="42" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_count.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="37" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/hamlet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="191" column="27" selection-start="6285" selection-end="6285" vertical-scroll-proportion="0.0" vertical-offset="2865" max-vertical-offset="2955">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/brave.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="238" column="0" selection-start="23806" selection-end="23806" vertical-scroll-proportion="0.0" vertical-offset="825" max-vertical-offset="3690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/frankenstein.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="1976" selection-end="1976" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1740">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/canterbury.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="145" column="0" selection-start="6018" selection-end="6018" vertical-scroll-proportion="0.0" vertical-offset="2175" max-vertical-offset="2295">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mercury.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="27" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="40" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restful.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="3" selection-start="523" selection-end="523" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mercury.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="18" selection-start="126" selection-end="285" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mercury.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="20" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/frankenstein.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="1976" selection-end="1976" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1740">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/hamlet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="191" column="27" selection-start="6285" selection-end="6285" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2955">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/brave.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="160" column="0" selection-start="15999" selection-end="15999" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/burial.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="0" selection-start="31545" selection-end="31545" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2055">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/canterbury.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="47" selection-start="828" selection-end="828" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2295">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/watch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="16" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_count.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="10" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="31" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="21" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restful.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="25" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mercury.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="218" selection-end="218" vertical-scroll-proportion="0.20134228" vertical-offset="0" max-vertical-offset="596">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
